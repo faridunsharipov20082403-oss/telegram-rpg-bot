@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 # Логирование
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "8459071176:AAHXbKqaNNF9crmOkXd5mAlFfOFszVXkLo4"
+TOKEN = "8726596316:AAGi3d_tmCcsGEujgRM3mn-mJu2KN3heTKY"
 
 # --- ИНИЦИАЛИЗА БАЗЫ ДАННЫХ ---
 def init_db():
